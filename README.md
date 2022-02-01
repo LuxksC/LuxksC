@@ -1,6 +1,6 @@
 # Hello World! I'm Lucas :wink:
 
-## :wave: About Me  :wave:
+## :wave: About Me
 
 My birth name is Lucas, but people usually call me by Luxks, Luscas or Luxcas, be free to choose what sounds better to you!
 
