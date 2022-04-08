@@ -11,7 +11,7 @@ My basic personal characteristics are adaptability ♻️, focus 👨‍💻, em
 I am working as Frontend Voluntary Developer at [Fortini](https://fortini.org.br/) since October 2021, a non governamental organization that helps children through sports and worked at [Upnid](https://upnid.com/) for two months as Frontend Web Developer, a Startup 
 focused on online payment processing which unfortunantely is in closing process.
 
-Currently, I am searching for a job as Frontend Developer which in one or two years, pave the way for a leadership position.
+Currently, I am searching for an opportuinty to work as iOS developer, after completing the Go!dev by Idwall training with 110 hours about Swift.
 
 Contact me anytime by [LinkedIn](https://www.linkedin.com/in/lucascastrorj/) or sending a message to lucas_08_castro@poli.ufrj.br
 
@@ -20,10 +20,10 @@ Contact me anytime by [LinkedIn](https://www.linkedin.com/in/lucascastrorj/) or 
 ```javascript
 const Luxks = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "HTML", "CSS"],
-    tools: ["React.JS", "SASS", "Git", "Github", "Figma", "Photoshop", "Notion"],
+    code: ["Swift", "Javascript", "Typescript", "HTML", "CSS"],
+    tools: ["UIKit", "React.JS", "SASS", "Git", "Github", "Figma", "Photoshop", "Notion"],
     personal: ["Team Work", "Leadership", "Proactivity", "Creativity", "Knowledge Transmission"],
-    askMeAbout: ["web dev", "tech", "sports", "games", "music"],
+    askMeAbout: ["iOS dev", "web dev", "tech", "sports", "games", "music"],
     currentFocus: "Studying to improve technically and searching for a job that offers daily challenges",
 };
 ```
@@ -32,6 +32,12 @@ const Luxks = {
 
 I strongly believe that knowledge comes from practice, so here is a list of projects I have done to improve my technical skills:
 
+### iOS Development
+- [StarRepo](https://github.com/Pablo1Gustavo/StarRepo)
+- [Marvel Heros App](https://github.com/LuxksC/marvel-challenge)
+- [Login Validation](https://github.com/LuxksC/idwall-go-dev-projects/tree/main/Desafios/LoginFormViewCode)
+
+### Web Development
 - [UP & FURIOUS](https://up-and-furious.web.app/) | [Repository](https://github.com/LuxksC/UpRace)
 - [LetMeAsk](nlw06-letmeask-22071998.web.app/) | [Repository](https://github.com/LuxksC/React_NLW06)
 - [Fortini Form for New Partner Schools](https://deploy-preview-3--escolafortini.netlify.app/) | Private Repository
