@@ -34,7 +34,7 @@ I strongly believe that knowledge comes from practice, so here is a list of proj
 
 ### iOS Development
 - [StarRepo](https://github.com/Pablo1Gustavo/StarRepo)
-- [Marvel Heros App](https://github.com/LuxksC/marvel-challenge)
+- [Marvel Heroes App](https://github.com/LuxksC/marvel-challenge)
 - [Login Validation](https://github.com/LuxksC/idwall-go-dev-projects/tree/main/Desafios/LoginFormViewCode)
 
 ### Web Development
