@@ -35,7 +35,7 @@ I strongly believe that knowledge comes from practice, so here is a list of proj
 ### iOS Development
 - [StarRepo](https://github.com/Pablo1Gustavo/StarRepo)
 - [Empresas](https://bitbucket.org/luxksc/empresas-ios/src/master/) - Ioasys technical challenge
-- [Marvel Heroes App](https://github.com/LuxksC/marvel-challenge)
+- [Marvel Heroes](https://github.com/LuxksC/marvel-challenge)
 
 ### Web Development
 - [UP & FURIOUS](https://up-and-furious.web.app/) | [Repository](https://github.com/LuxksC/UpRace)
