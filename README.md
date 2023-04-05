@@ -20,7 +20,11 @@ Contact me anytime by [LinkedIn](https://www.linkedin.com/in/lucascastrorj/) or 
 const Luxks = {
     pronouns: "He" | "Him",
     code: ["Swift", "Javascript", "Typescript"],
-    tools: ["UIKit", "ViewCode", "Unit Tests", "Coordinators", "MVVM and MVP architecture", "Dependency Injection", "Modular projects", "Swift Package Manager(SPM)", "CocoaPods", "Git", "Github", "Bitbucket", "Figma", "React.JS", "SASS"],
+    tools: [
+        "UIKit", "ViewCode", "Unit Tests", "Coordinators", "MVVM and MVP architecture",
+        "Dependency Injection", "Modular projects", "Swift Package Manager(SPM)", "CocoaPods", "Git",
+        "Github", "Bitbucket", "Figma", "React.JS", "SASS"
+    ],
     personal: ["Team Work", "Leadership", "Proactivity", "Creativity", "Knowledge Transmission"],
     askMeAbout: ["iOS dev", "web dev", "tech", "sports", "games", "music"],
     currentFocus: "Studying to improve technically and searching for a job that offers daily challenges",
