@@ -8,20 +8,19 @@ I am a lover of teamwork, technology and complex challenges. The perfect work en
 
 My basic personal characteristics are adaptability ♻️, focus 👨‍💻, empathy 🤗, creativity 💡, proactivity 🚀, fast learning 🏃‍♂️ and excellent communication 🙋‍♂️.
 
-I am working as Frontend Voluntary Developer at [Fortini](https://fortini.org.br/) since October 2021, a non governamental organization that helps children through sports and worked at [Upnid](https://upnid.com/) for two months as Frontend Web Developer, a Startup 
-focused on online payment processing which unfortunantely is in closing process.
+I worked at [Ioasys](https://ioasys.com.br) as iOS Developer, supporting the development of DMCard and Havaianas apps, [Fortini](https://fortini.org.br/) as Frontend Voluntary Developer, a non governamental organization that helps children through sports and [Upnid](https://upnid.com/) as Frontend Web Developer, a Startup focused on online payment processing.
 
-Currently, I am searching for an opportuinty to work as iOS developer, after completing the Go!dev by Idwall training with 110 hours about Swift.
+Currently, I am searching for an opportuinty to work as a midle or junior level iOS Developer in a challenging project that helps me improve my skills.
 
-Contact me anytime by [LinkedIn](https://www.linkedin.com/in/lucascastrorj/) or sending a message to lucas_08_castro@poli.ufrj.br
+Contact me anytime by [LinkedIn](https://www.linkedin.com/in/lucascastrorj/) or sending a message to luscasdev@gmail.com
 
 ## 🚀 Skills
 
 ```javascript
 const Luxks = {
     pronouns: "He" | "Him",
-    code: ["Swift", "Javascript", "Typescript", "HTML", "CSS"],
-    tools: ["UIKit", "React.JS", "SASS", "Git", "Github", "Figma", "Photoshop", "Notion"],
+    code: ["Swift", "Javascript", "Typescript"],
+    tools: ["UIKit", "ViewCode", "Unit Tests", "Coordinators", "MVVM and MVP architecture", "Dependency Injection", "Modular projects", "Swift Package Manager(SPM)", "CocoaPods", "Git", "Github", "Bitbucket", "Figma", "React.JS", "SASS"],
     personal: ["Team Work", "Leadership", "Proactivity", "Creativity", "Knowledge Transmission"],
     askMeAbout: ["iOS dev", "web dev", "tech", "sports", "games", "music"],
     currentFocus: "Studying to improve technically and searching for a job that offers daily challenges",
